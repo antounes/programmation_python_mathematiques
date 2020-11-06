@@ -3,3 +3,4 @@
 
 print('Coucou Fofinha')
 print('Salut c\'est Chorizo')
+print('coucou je fais du yoga')
