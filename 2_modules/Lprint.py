@@ -18,3 +18,8 @@ def lprint(liste, largeur, forme):
         if i!=0 and i % largeur == largeur - 1:
             print('\n', end='')
     print()
+
+if __name__ == "__main__":
+    l = list(range(100))
+    print(l)
+    lprint(l, 12, '3d')
